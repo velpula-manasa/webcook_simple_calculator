@@ -30,7 +30,7 @@ Installation
 
     sh
 
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/velpula-manasa/simple-calculator.git
 
 Navigate to the project directory:
 
